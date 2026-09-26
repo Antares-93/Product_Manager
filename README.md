@@ -78,6 +78,7 @@ $host = '127.0.0.1';        // Host MySQL lokal
 $db   = 'product_manager';  // Nama database
 $user = 'root';             // Username default MySQL
 $pass = '';                 // Password default XAMPP (kosongkan jika tanpa password)
+```
 
 ### Langkah 3: Menjalankan Aplikasi
 

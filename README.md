@@ -46,6 +46,7 @@ product-manager/
 │   └── delete.php              # Endpoint penanganan hapus produk (POST)
 ├── index.php                   # Gerbang redirect root ke public/
 └── README.md                   # Dokumentasi proyek & panduan instalasi
+```
 
 ---
 
